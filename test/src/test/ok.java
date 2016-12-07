@@ -7,6 +7,7 @@ public class ok {
 		//ndjsnadjansjnj
 		//asdasd
 		//smeng
+		//linda4
 	}
 
 }
