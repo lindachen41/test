@@ -6,7 +6,7 @@ public class ok {
 		// TODO Auto-generated method stub
 		//ndjsnadjansjnj
 		//asdasd
-
+		//smeng
 	}
 
 }
